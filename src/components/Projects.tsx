@@ -19,7 +19,7 @@ const projects = [
     imageUrl: "https://cdn.dribbble.com/users/2482217/screenshots/19892072/media/db27d16fd9d0177ed0c43e7ef4a0e03a.png",
     features: ["Multi-platform integration","Data export","Post scheduling","Engagement analytics","Content calendar","Follower growth tracking"],
     technologies: "Built using React for the UI, Chart.js for data visualization, and REST APIs for social media integration. The backend is powered by Node.js with a MongoDB database.",
-    githubUrl: "https://github.com/VT-2004/shimmer-social-pulse-view",
+    githubUrl: "https://github.com/VT-2004/social-dash",
     liveUrl: "https://social-dash-sepia.vercel.app/"
   },
   {
