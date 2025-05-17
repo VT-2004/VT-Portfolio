@@ -72,15 +72,15 @@ const projects = [
   },
   {
     id: 6,
-    title: "Recipe Finder",
-    description: "A web app For People interested in cooking and Food ",
-    fullDescription: "This intelligent recipe finder helps users discover meal ideas based on available ingredients, dietary preferences, and cuisine types. By leveraging keyword matching, filtering logic, and a curated recipe database, it provides quick and accurate recipe suggestions. Designed for home cooks and food enthusiasts, it simplifies meal planning and enhances the cooking experience.",
-    tags: ["React", "Node.js", "MongoDB"],
-    imageUrl: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/52bb18119670937.60a2bd1f5ba36.jpg",
-    features: ["Cuisine and dietary filters", "Ingredient-based recipe search", "Step-by-step cooking instructions", "Favorites and bookmarking"],
+    title: "Financial Management Dashboard",
+    description: "Unified platform for tracking, analyzing, and optimizing financial data. ",
+    fullDescription: "This financial management dashboard is a unified platform designed to empower users with clear insights into their financial health by aggregating data from various sources. It features interactive visualizations of key metrics, budgeting and forecasting tools, and real-time performance monitoring, all presented through a customizable and user-friendly interface. The goal is to simplify complex financial data, enabling informed decision-making and promoting better financial control and outcomes.",
+    tags: ["React","Tailwind CSS","TypeScript", "Node.js", "MongoDB"],
+    imageUrl: "https://imgcdn.stablediffusionweb.com/2024/12/17/079b0536-4abd-4897-89ff-a2595694af55.jpg",
+    features: ["Real-time Monitoring", "Expense Tracking", "Cash Flow Analysis", "Visual Reports"],
     technologies: "Built with React for the frontend and Node.js with Express for the backend. Uses a MongoDB database to store recipes and user data. Includes integration with a speech-to-text API for voice queries and implements custom filtering algorithms for search functionality.",
-    githubUrl: "https://github.com/VT-2004/ingredient-alchemy-mobile",
-    liveUrl: "https://preview-799d4771--ingredient-alchemy-mobile.lovable.app/"
+    githubUrl: "https://github.com/VT-2004/Fin-dash",
+    liveUrl: "https://fin-dash-nu.vercel.app/"
   }
 ];
 
